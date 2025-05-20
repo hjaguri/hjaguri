@@ -26,7 +26,7 @@
 ## 📚 Education
 
 🎓 **MCA** – Graphic Era Hill University, Dehradun  
-🗓️ _2023 – Present_
+🗓️ _2023 – 2025
 
 🎓 **B.Sc. IT** – Graphic Era Hill University, Dehradun  
 🗓️ _2020 – 2023_

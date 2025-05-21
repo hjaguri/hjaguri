@@ -1,7 +1,5 @@
 <!-- PROFILE HEADER -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-username" width="150" style="border-radius: 50%;" alt="Profile Picture" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Hansraj Jaguri</h1>
 

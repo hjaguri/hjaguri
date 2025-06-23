@@ -1,10 +1,8 @@
-<!-- PROFILE HEADER -->
-
 
 <h1 align="center">Hi 👋, I'm Hansraj Jaguri</h1>
 
 <p align="center">
-  🎓 MCA Student | 💻 Aspiring Java Developer | 📍 Dehradun, India  
+  🎓 MCA Student | 💻 Java Developer in the Making | ☁️ Cloud Enthusiast | 📍 Dehradun, India
 </p>
 
 <p align="center">
@@ -17,74 +15,69 @@
 
 ## 🎯 Objective
 
-🌱 Looking for an **entry-level role in a reputed IT firm** where I can grow professionally and use my Java and software skills to contribute to impactful projects.
+Aspiring Java Developer looking for an entry-level opportunity to contribute to impactful projects using Java and modern backend technologies while continuously learning and growing in the IT industry.
 
 ---
 
-## 📚 Education
+## 💼 Projects
 
-🎓 **MCA** – Graphic Era Hill University, Dehradun  
-🗓️ _2023 – 2025
+### 📘 [Student Management System](https://github.com/hjaguri/Hibernate-WebProject)
+> A full-stack Java web app to manage student records with CRUD operations. Built using Servlets, Hibernate, and MySQL.  
+> 🛠️ *Java | Servlets | Hibernate | HTML/CSS | MySQL | Tomcat*  
+> 📌 Features: MVC architecture, error handling, clean UI.
 
-🎓 **B.Sc. IT** – Graphic Era Hill University, Dehradun  
-🗓️ _2020 – 2023_
+### 📗 [My Interest Book](https://github.com/hjaguri/MyInterestBook)
+> A Spring Core CLI app that registers users and calculates simple interest.  
+> 🛠️ *Java 17 | Spring Core | Maven*  
+> 📌 Features: Dependency Injection, Layered architecture, Simulated persistence.
 
 ---
 
-## 💼 Skills
+## 💻 Skills
 
-```html
-💻 Programming: Java, C  
-🌐 Web: HTML, CSS  
-🗃️ Database: MySQL, JDBC  
-🔧 Others: OOP, Git, Problem Solving
+```yaml
+- Languages: Java, C, Python (basic)
+- Web: HTML, CSS
+- Database: MySQL, JDBC
+- Frameworks: Hibernate, Spring Core (Java Config)
+- Tools: Git, GitHub, Eclipse IDE, Maven
+- Cloud: Basic AWS (EC2, S3)
+- Concepts: OOPs, MVC, CLI apps
 ```
 
 ---
 
-## 🛠️ Projects
+## 🎓 Education
 
-### 📘 Student Management System  
-🗓️ _Aug 2024 – Nov 2024_  
-➡️ Built using **Java, HTML, CSS, MySQL**  
-🔑 Features: CRUD operations, login system, attendance & fee tracking via JDBC
-
-### 🗳️ Online Voting System  
-🗓️ _Feb 2024 – May 2024_  
-➡️ Secure platform using **Java, HTML, CSS, MySQL**  
-🔐 Features: User authentication, real-time vote tally, encryption & data validation
+- 📘 **MCA** — Graphic Era Hill University (2023–2025)  
+- 📗 **B.Sc. IT** — Graphic Era Hill University (2020–2023)  
 
 ---
 
-## 📜 Certification
+## 📜 Certifications
 
-🏅 **Core Java** – Internshala  
-🗓️ _Jan 2024 – Mar 2024_  
-✔️ Completed 6-week course on Java Basics, OOP, App Development
+- 🏅 **Core Java** – Internshala Trainings (Jan 2024 – Mar 2024)  
+  _Covered Java basics, OOPs, and App Development._  
+
+- 🏅 **C Programming** – IIT Bombay (Dec 2023)  
+  _Certified through Spoken Tutorial Project._
 
 ---
 
-## 💖 Interests
+## ✨ Interests
 
 📸 Photography | 🏐 Handball | ✈️ Travelling | 👨‍💻 Coding
-
----
-
-## 🗣️ Languages
-
-- 🗨️ English  
-- 🗨️ Hindi
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hjaguri&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjaguri&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hjaguri&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjaguri&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-_⭐ Feel free to connect or reach out to collaborate on Java-based projects!_
+_🌟 Always open to collaboration and learning — Let's build something amazing together!_

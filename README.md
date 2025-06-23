@@ -26,7 +26,7 @@ Aspiring Java Developer looking for an entry-level opportunity to contribute to 
 > 🛠️ *Java | Servlets | Hibernate | HTML/CSS | MySQL | Tomcat*  
 > 📌 Features: MVC architecture, error handling, clean UI.
 
-### 📗 [My Interest Book](https://github.com/hjaguri/MyInterestBook)
+### 📗 [My Interest Book](https://github.com/hjaguri/MyInterestBookApp.git)
 > A Spring Core CLI app that registers users and calculates simple interest.  
 > 🛠️ *Java 17 | Spring Core | Maven*  
 > 📌 Features: Dependency Injection, Layered architecture, Simulated persistence.

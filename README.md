@@ -7,19 +7,34 @@
 <p align="center">
   <a href="mailto:hjaguri27@gmail.com"><img src="https://img.shields.io/badge/Email-hjaguri27@gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/hjaguri"><img src="https://img.shields.io/badge/GitHub-hjaguri-181717?style=flat-square&logo=github"></a>
-  <a href="https://www.linkedin.com/in/hansraj-jaguri-00a003217"><img src="https://img.shields.io/badge/LinkedIn-Hansraj%20Jaguri-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://img.shields.io/badge/LinkedIn-Hansraj%20Jaguri-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Associate Engineer Trainee with hands-on experience in **Java Full Stack Development**, including backend technologies, databases, and web applications. Passionate about building scalable software solutions, solving real-world problems, and continuously learning new technologies.
+Associate Engineer Trainee with practical exposure to **Java Full Stack Development**, focusing on backend technologies, databases, and web applications. Strong foundation in object-oriented programming and software development concepts with a passion for solving real-world problems and continuously improving technical skills.
 
 * 🌱 Working with **Java, Spring Boot, Hibernate, MySQL, Angular**
 * 🔧 Experience with **Git, GitLab, Maven, REST APIs, MVC Architecture**
 * ☁️ Exploring **AWS Cloud (EC2, S3 - Basics)**
-* 🎯 Goal: To grow as a Software Engineer in a product-based organization
+* 🎯 Goal: To grow as a skilled Software Engineer in a product-based organization
+
+---
+
+## 💼 Experience
+
+### 🏢 Associate Engineer Trainee
+
+📍 India | 🗓️ Nov 2025 – Present
+
+* Completed structured training in **Full Stack Java Development**.
+* Worked on **Core Java, Advanced Java, Servlets, JSP, Hibernate, Spring & Spring Boot**.
+* Developed database skills using **MySQL** and frontend basics with **Angular**.
+* Used **Git & GitLab** for version control and collaborative development.
+* Completed multiple hands-on assignments and technical tasks.
+* Gained exposure to **software development lifecycle, debugging, and coding best practices**.
 
 ---
 

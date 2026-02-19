@@ -1,83 +1,131 @@
+<div style="font-family: Arial, sans-serif; max-width: 900px; margin: auto; line-height: 1.6;">
 
-<h1 align="center">Hi 👋, I'm Hansraj Jaguri</h1>
+<h1 style="text-align:center; color:#2c3e50;">Hansraj Jaguri</h1>
 
-<p align="center">
-  🎓 MCA Student | 💻 Java Developer in the Making | ☁️ Cloud Enthusiast | 📍 Dehradun, India
+<p style="text-align:center;">
+📧 hjaguri27@gmail.com | 📱 +91 7617751660 | 📍 India <br>
+<a href="https://github.com/hjaguri">GitHub</a> |
+<a href="https://www.linkedin.com/in/hansraj-jaguri-00a003217">LinkedIn</a>
 </p>
 
-<p align="center">
-  <a href="mailto:hjaguri27@gmail.com"><img src="https://img.shields.io/badge/Email-hjaguri27@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/hjaguri"><img src="https://img.shields.io/badge/GitHub-hjaguri-181717?style=flat-square&logo=github"></a>
-  <a href="https://www.linkedin.com/in/hansraj-jaguri-00a003217"><img src="https://img.shields.io/badge/LinkedIn-Hansraj%20Jaguri-blue?style=flat-square&logo=linkedin"></a>
+<hr style="border:1px solid #ddd;">
+
+<h2 style="color:#2980b9;">👨‍💻 Profile</h2>
+<p>
+Associate Engineer Trainee with hands-on experience in <b>Java Full Stack Development</b>, including backend technologies,
+databases, and web applications. Strong foundation in object-oriented programming and problem-solving with a passion for
+building scalable applications and continuously learning new technologies.
 </p>
 
----
+<h2 style="color:#2980b9;">💼 Professional Experience</h2>
 
-## 🎯 Objective
+<h3>Associate Engineer Trainee</h3>
+<p><i>Nov 2025 – Present | India</i></p>
 
-Aspiring Java Developer looking for an entry-level opportunity to contribute to impactful projects using Java and modern backend technologies while continuously learning and growing in the IT industry.
+<ul>
+<li>Completed structured training in Full Stack Java Development.</li>
+<li>Worked on Core Java, Servlets, JSP, Hibernate, Spring & Spring Boot.</li>
+<li>Developed database knowledge using MySQL and frontend basics with Angular.</li>
+<li>Used Git & GitLab for version control and collaboration.</li>
+<li>Completed multiple hands-on assignments and technical tasks.</li>
+<li>Gained exposure to software development lifecycle and coding best practices.</li>
+</ul>
 
----
+<h2 style="color:#2980b9;">🛠️ Technical Skills</h2>
 
-## 💼 Projects
+<table width="100%" style="border-collapse: collapse;">
+<tr>
+<td><b>Languages</b></td>
+<td>Java, SQL, C, Python (Basic)</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>HTML, CSS, Angular</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Servlets, JSP, Spring, Spring Boot, Hibernate</td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>MySQL</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>Git, GitHub, GitLab, Maven, Eclipse, VS Code</td>
+</tr>
+<tr>
+<td><b>Cloud</b></td>
+<td>AWS (EC2, S3 – Basics)</td>
+</tr>
+<tr>
+<td><b>Concepts</b></td>
+<td>OOP, MVC Architecture, JDBC, REST APIs, SDLC</td>
+</tr>
+</table>
 
-### 📘 [Student Management System](https://github.com/hjaguri/Hibernate-WebProject)
-> A full-stack Java web app to manage student records with CRUD operations. Built using Servlets, Hibernate, and MySQL.  
-> 🛠️ *Java | Servlets | Hibernate | HTML/CSS | MySQL | Tomcat*  
-> 📌 Features: MVC architecture, error handling, clean UI.
+<h2 style="color:#2980b9;">🚀 Projects</h2>
 
-### 📗 [My Interest Book](https://github.com/hjaguri/MyInterestBookApp.git)
-> A Spring Core CLI app that registers users and calculates simple interest.  
-> 🛠️ *Java 17 | Spring Core | Maven*  
-> 📌 Features: Dependency Injection, Layered architecture, Simulated persistence.
+<h3>Student Management System</h3>
+<p><b>Technologies:</b> Java, Servlets, Hibernate, MySQL, HTML/CSS, Tomcat</p>
+<ul>
+<li>Developed a web-based CRUD application to manage student records.</li>
+<li>Implemented MVC architecture with proper separation of layers.</li>
+<li>Integrated Hibernate ORM for database operations.</li>
+<li>Designed responsive frontend with validation and error handling.</li>
+</ul>
 
----
+<p><a href="https://github.com/hjaguri/Hibernate-WebProject">🔗 View Project</a></p>
 
-## 💻 Skills
+<h3>My Interest Book</h3>
+<p><b>Technologies:</b> Java 17, Spring Core, Maven</p>
+<ul>
+<li>Developed a CLI-based application to register users and calculate simple interest.</li>
+<li>Implemented layered architecture (Controller-Service-DAO).</li>
+<li>Used Dependency Injection with Java configuration.</li>
+<li>Simulated data persistence and business logic processing.</li>
+</ul>
 
-```yaml
-- Languages: Java, C, Python (basic)
-- Web: HTML, CSS
-- Database: MySQL, JDBC
-- Frameworks: Hibernate, Spring Core (Java Config)
-- Tools: Git, GitHub, Eclipse IDE, Maven
-- Cloud: Basic AWS (EC2, S3)
-- Concepts: OOPs, MVC, CLI apps
-```
+<p><a href="https://github.com/hjaguri/MyInterestBookApp">🔗 View Project</a></p>
 
----
+<h2 style="color:#2980b9;">🎓 Education</h2>
 
-## 🎓 Education
-
-- 📘 **MCA** — Graphic Era Hill University (2023–2025)  
-- 📗 **B.Sc. IT** — Graphic Era Hill University (2020–2023)  
-
----
-
-## 📜 Certifications
-
-- 🏅 **Core Java** – Internshala Trainings (Jan 2024 – Mar 2024)  
-  _Covered Java basics, OOPs, and App Development._  
-
-- 🏅 **C Programming** – IIT Bombay (Dec 2023)  
-  _Certified through Spoken Tutorial Project._
-
----
-
-## ✨ Interests
-
-📸 Photography | 🏐 Handball | ✈️ Travelling | 👨‍💻 Coding
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hjaguri&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjaguri&layout=compact&theme=tokyonight" />
+<p>
+<b>Master of Computer Application (MCA)</b><br>
+Graphic Era Hill University | 2023 – 2025
 </p>
 
----
+<p>
+<b>Bachelor of Science in Information Technology (B.Sc. IT)</b><br>
+Graphic Era Hill University | 2020 – 2023
+</p>
 
-_🌟 Always open to collaboration and learning — Let's build something amazing together!_
+<h2 style="color:#2980b9;">📜 Certifications</h2>
+
+<ul>
+<li>Core Java – Internshala Trainings</li>
+<li>C Programming – IIT Bombay (Spoken Tutorial Project)</li>
+</ul>
+
+<h2 style="color:#2980b9;">✨ Strengths</h2>
+
+<ul>
+<li>Strong problem-solving and analytical thinking</li>
+<li>Quick learner with adaptability to new technologies</li>
+<li>Team collaboration and communication skills</li>
+<li>Passion for continuous learning and improvement</li>
+</ul>
+
+<h2 style="color:#2980b9;">🎯 Career Objective</h2>
+
+<p>
+To leverage my technical skills and hands-on experience in Java Full Stack development to contribute effectively to organizational growth while continuously enhancing my knowledge and professional expertise.
+</p>
+
+<hr>
+
+<p style="text-align:center; color:gray;">
+⭐ Open to opportunities, collaboration, and learning experiences.
+</p>
+
+</div>

@@ -25,7 +25,7 @@ Associate Engineer Trainee with practical exposure to **Java Full Stack Developm
 
 ## 💼 Experience
 
-### 🏢 Associate Engineer Trainee
+### 🏢 Associate Engineer Trainee - Nagarro
 
 📍 India | 🗓️ Nov 2025 – Present
 
